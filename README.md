@@ -18,6 +18,10 @@ Uses:
 - [Chart.js](https://www.chartjs.org/) via [solid-chartjs](https://github.com/s0ftik3/solid-chartjs)
 - [FontAwesome](https://fontawesome.com/) via [solid-fontawesome](https://github.com/gnomical/solid-fontawesome)
 
+## Screenshot
+
+![What it looks like.](docs/images/v1.png)
+
 ## Usage
 
 ```bash
